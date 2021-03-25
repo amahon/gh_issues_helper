@@ -6,7 +6,7 @@ PyGithub==1.35
 PyJWT==1.5.2
 python-dotenv==0.6.5
 python-frontmatter==0.4.2
-PyYAML==3.12
+PyYAML==5.4
 requests==2.18.4
 six==1.10.0
 tornado==4.5.2
